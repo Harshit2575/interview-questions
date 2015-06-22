@@ -21,4 +21,4 @@ def all_alpha(nums):
             retval.add(char + ending)
     return retval
 
-print str(all_alpha('5033671845'))
+print(str(all_alpha('5033671845')))

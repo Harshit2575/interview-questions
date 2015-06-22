@@ -17,4 +17,4 @@ def sum_file(filename):
             print str(e)
         return total
 
-print int(sum_file('/Users/rose/Desktop/ints.txt'))
+print(int(sum_file('/Users/rose/Desktop/ints.txt')))

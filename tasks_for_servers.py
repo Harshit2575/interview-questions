@@ -36,5 +36,5 @@ def tasks_for_servers(capacity_limits, capacity_needs, assignments):
   return False
 
 
-print tasks_for_servers([1, 4], [3], defaultdict(list))
-print tasks_for_servers([8, 16, 8, 32], [18, 4, 8, 4, 6, 6, 8, 8], defaultdict(list))
+print(tasks_for_servers([1, 4], [3], defaultdict(list)))
+print(tasks_for_servers([8, 16, 8, 32], [18, 4, 8, 4, 6, 6, 8, 8], defaultdict(list)))

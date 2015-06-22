@@ -17,6 +17,6 @@ def reverse_2(s):
         rev += s[index]
     return rev
 
-print reverse_1('rose')
-print reverse_2('rose')
+print(reverse_1('rose'))
+print(reverse_2('rose'))
 

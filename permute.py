@@ -18,5 +18,5 @@ def permute(string):
     return perms
 
 
-print str(permute('hat'))
+print(str(permute('hat')))
 assert len(set(permute('hat')).intersection(set(['tha', 'aht', 'tah', 'hta', 'hat', 'ath']))) == 6

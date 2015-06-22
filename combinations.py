@@ -18,4 +18,4 @@ def combinations(string):
             result.add(''.join(sorted(comb + string[i])))
     return result
 
-print str(combinations('ros'))
+print(str(combinations('ros')))

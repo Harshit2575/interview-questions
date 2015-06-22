@@ -101,14 +101,14 @@ def get_non_chosen_neighbors_of_score_4_or_less(neighbors, already_chosen):
                                         and square.key not in already_chosen]
 
 # First, find the contiguous region
-print 'Just testing to make sure get_neighbors is correct:'
-print 'Neighbors of 2,9:'
+print('Just testing to make sure get_neighbors is correct:')
+print('Neighbors of 2,9:')
 for n in get_neighbors(EXAMPLE_GRID, 2, 9):
-  print n
+  print(n)
 
 print 'Neighbors of 5,5:'
 for n in get_neighbors(EXAMPLE_GRID, 5, 5):
-  print n
+  print(n)
 
 # Heh, this solution is actually recursive, because I anticipate that you'll want
 # maximally-sized regions, not just regions of length 3.
@@ -178,4 +178,4 @@ for row in range(GRID_SIZE):
         solutions.add(region_description(contiguous_region))
 
 for solution in solutions:
-  print solution
+  print(solution)
