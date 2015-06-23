@@ -1,3 +1,4 @@
+#!usr/bin/python
 
 def permutations(lst):
   if len(lst) <= 1:

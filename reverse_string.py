@@ -1,3 +1,4 @@
+#!/usr/bin/python
 '''
 Reverse a string.
 

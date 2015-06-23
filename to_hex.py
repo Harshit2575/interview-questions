@@ -1,3 +1,4 @@
+#!/usr/bin/python
 '''
 Convert a base-10 RGB value of the form [0-255], [0-255], [0-255] to a hex string.
 '''

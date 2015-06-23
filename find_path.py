@@ -1,3 +1,4 @@
+#!/usr/bin/python
 '''
 Find a path from one node in a graph to another
 

@@ -1,3 +1,4 @@
+#!/usr/bin/pythonc
 '''
 Find the lowest (nearest) common ancestor between two nodes
 in a tree.

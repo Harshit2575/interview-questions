@@ -1,3 +1,4 @@
+#!/usr/bin/python
 '''
 Find all alphabetical combinations that could represent a 
 phone number. For the numbers 0 and 1, don't replace them with

@@ -1,3 +1,4 @@
+#!/usr/bin/python
 '''
 Implement binary search.
 

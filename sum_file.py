@@ -1,3 +1,4 @@
+#!/usr/bin/python
 '''
 Sum integers in a file.
 

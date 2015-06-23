@@ -1,3 +1,4 @@
+#!/usr/bin/python
 '''
 Find the first non-repeated character in a string.
 

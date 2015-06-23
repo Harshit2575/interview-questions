@@ -1,3 +1,4 @@
+#!/usr/bin/python
 '''
 Implement a hashtable.
 '''

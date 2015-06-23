@@ -1,3 +1,4 @@
+#!/usr/bin/python
 
 def set_some_bits(m, n, i, j):
   mask = 0;

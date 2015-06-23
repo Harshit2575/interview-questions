@@ -1,3 +1,4 @@
+#!/usr/bin/python
 '''
 Find all permutations of a string.
 

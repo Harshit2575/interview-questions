@@ -1,3 +1,4 @@
+#!/usr/bin/python
 '''
 Print all combinatiosn of a string.
 
